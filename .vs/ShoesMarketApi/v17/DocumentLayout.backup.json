@@ -1,0 +1,383 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|s:\\timergazinkomyagin\\kom_tim_bd\\api\\shoesmarketapi\\shoesmarketapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|solutionrelative:shoesmarketapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|s:\\timergazinkomyagin\\kom_tim_bd\\api\\shoesmarketapi\\shoesmarketapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|solutionrelative:shoesmarketapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|s:\\timergazinkomyagin\\kom_tim_bd\\api\\shoesmarketapi\\shoesmarketapi\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|solutionrelative:shoesmarketapi\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|s:\\timergazinkomyagin\\kom_tim_bd\\api\\shoesmarketapi\\shoesmarketapi\\controllers\\producerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|solutionrelative:shoesmarketapi\\controllers\\producerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|s:\\timergazinkomyagin\\kom_tim_bd\\api\\shoesmarketapi\\shoesmarketapi\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|solutionrelative:shoesmarketapi\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|s:\\timergazinkomyagin\\kom_tim_bd\\api\\shoesmarketapi\\shoesmarketapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|solutionrelative:shoesmarketapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|s:\\timergazinkomyagin\\kom_tim_bd\\api\\shoesmarketapi\\shoesmarketapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|solutionrelative:shoesmarketapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|s:\\timergazinkomyagin\\kom_tim_bd\\api\\shoesmarketapi\\shoesmarketapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|solutionrelative:shoesmarketapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|s:\\timergazinkomyagin\\kom_tim_bd\\api\\shoesmarketapi\\shoesmarketapi\\itemquantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|solutionrelative:shoesmarketapi\\itemquantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|s:\\timergazinkomyagin\\kom_tim_bd\\api\\shoesmarketapi\\shoesmarketapi\\shoesmarketapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|solutionrelative:shoesmarketapi\\shoesmarketapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|s:\\timergazinkomyagin\\kom_tim_bd\\api\\shoesmarketapi\\shoesmarketapi\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|solutionrelative:shoesmarketapi\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|s:\\timergazinkomyagin\\kom_tim_bd\\api\\shoesmarketapi\\shoesmarketapi\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|solutionrelative:shoesmarketapi\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|s:\\timergazinkomyagin\\kom_tim_bd\\api\\shoesmarketapi\\shoesmarketapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|solutionrelative:shoesmarketapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|s:\\timergazinkomyagin\\kom_tim_bd\\api\\shoesmarketapi\\shoesmarketapi\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|solutionrelative:shoesmarketapi\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|s:\\timergazinkomyagin\\kom_tim_bd\\api\\shoesmarketapi\\shoesmarketapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|solutionrelative:shoesmarketapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|s:\\timergazinkomyagin\\kom_tim_bd\\api\\shoesmarketapi\\shoesmarketapi\\oooobyvtimkomcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|solutionrelative:shoesmarketapi\\oooobyvtimkomcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|s:\\timergazinkomyagin\\kom_tim_bd\\api\\shoesmarketapi\\shoesmarketapi\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|solutionrelative:shoesmarketapi\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|s:\\timergazinkomyagin\\kom_tim_bd\\api\\shoesmarketapi\\shoesmarketapi\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|solutionrelative:shoesmarketapi\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|s:\\timergazinkomyagin\\kom_tim_bd\\api\\shoesmarketapi\\shoesmarketapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9D433BB-B326-495B-BBA6-6C0F6D51A169}|ShoesMarketApi\\ShoesMarketApi.csproj|solutionrelative:shoesmarketapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "ShoesMarketApi\\Controllers\\OrdersController.cs",
+              "ToolTip": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "ShoesMarketApi\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T11:50:15.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ShoesMarketApi\\Controllers\\AuthController.cs",
+              "ToolTip": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ShoesMarketApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:37:02.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\Supplier.cs",
+              "RelativeDocumentMoniker": "ShoesMarketApi\\Supplier.cs",
+              "ToolTip": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\Supplier.cs",
+              "RelativeToolTip": "ShoesMarketApi\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:38:20.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ShoesMarketApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ShoesMarketApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAADgv5cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T06:07:21.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\Program.cs",
+              "RelativeDocumentMoniker": "ShoesMarketApi\\Program.cs",
+              "ToolTip": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\Program.cs",
+              "RelativeToolTip": "ShoesMarketApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T05:53:41.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\Product.cs",
+              "RelativeDocumentMoniker": "ShoesMarketApi\\Product.cs",
+              "ToolTip": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\Product.cs",
+              "RelativeToolTip": "ShoesMarketApi\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T05:48:00.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShoesMarketApi.http",
+              "DocumentMoniker": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\ShoesMarketApi.http",
+              "RelativeDocumentMoniker": "ShoesMarketApi\\ShoesMarketApi.http",
+              "ToolTip": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\ShoesMarketApi.http",
+              "RelativeToolTip": "ShoesMarketApi\\ShoesMarketApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-05-06T09:08:36.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ShoesMarketApi\\Controllers\\CategoriesController.cs",
+              "ToolTip": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ShoesMarketApi\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T13:30:00.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProducersController.cs",
+              "DocumentMoniker": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\Controllers\\ProducersController.cs",
+              "RelativeDocumentMoniker": "ShoesMarketApi\\Controllers\\ProducersController.cs",
+              "ToolTip": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\Controllers\\ProducersController.cs",
+              "RelativeToolTip": "ShoesMarketApi\\Controllers\\ProducersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:19:29.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SuppliersController.cs",
+              "DocumentMoniker": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\Controllers\\SuppliersController.cs",
+              "RelativeDocumentMoniker": "ShoesMarketApi\\Controllers\\SuppliersController.cs",
+              "ToolTip": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\Controllers\\SuppliersController.cs",
+              "RelativeToolTip": "ShoesMarketApi\\Controllers\\SuppliersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:46:12.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\Order.cs",
+              "RelativeDocumentMoniker": "ShoesMarketApi\\Order.cs",
+              "ToolTip": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\Order.cs",
+              "RelativeToolTip": "ShoesMarketApi\\Order.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wBsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T05:48:18.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ShoesMarketApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ShoesMarketApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T10:21:21.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "ShoesMarketApi\\ProductCategory.cs",
+              "ToolTip": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\ProductCategory.cs",
+              "RelativeToolTip": "ShoesMarketApi\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T10:21:33.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemQuantity.cs",
+              "DocumentMoniker": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\ItemQuantity.cs",
+              "RelativeDocumentMoniker": "ShoesMarketApi\\ItemQuantity.cs",
+              "ToolTip": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\ItemQuantity.cs",
+              "RelativeToolTip": "ShoesMarketApi\\ItemQuantity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:15:12.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ShoesMarketApi\\Properties\\launchSettings.json",
+              "ToolTip": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ShoesMarketApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-07T13:39:16.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OooObyvTimkomContext.cs",
+              "DocumentMoniker": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\OooObyvTimkomContext.cs",
+              "RelativeDocumentMoniker": "ShoesMarketApi\\OooObyvTimkomContext.cs",
+              "ToolTip": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\OooObyvTimkomContext.cs",
+              "RelativeToolTip": "ShoesMarketApi\\OooObyvTimkomContext.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAALQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T05:47:48.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ShoesMarketApi\\appsettings.json",
+              "ToolTip": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\appsettings.json",
+              "RelativeToolTip": "ShoesMarketApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-30T05:51:12.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "ShoesMarketApi\\OrderStatus.cs",
+              "ToolTip": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\OrderStatus.cs",
+              "RelativeToolTip": "ShoesMarketApi\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T05:48:16.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Producer.cs",
+              "DocumentMoniker": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\Producer.cs",
+              "RelativeDocumentMoniker": "ShoesMarketApi\\Producer.cs",
+              "ToolTip": "S:\\timergazinKomyagin\\kom_tim_bd\\api\\ShoesMarketApi\\ShoesMarketApi\\Producer.cs",
+              "RelativeToolTip": "ShoesMarketApi\\Producer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T05:47:58.011Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
